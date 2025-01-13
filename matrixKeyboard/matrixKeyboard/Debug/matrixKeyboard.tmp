@@ -1,0 +1,53 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\Debug\matrixKeyboard.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>matrixKeyboard.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>matrixKeyboard.map</FILE>
+  <FILE>matrixKeyboard.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>26</LINE></reset>
+  <rx_complete><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>335</LINE></rx_complete>
+  <delay_100m><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>354</LINE></delay_100m>
+  <delay_20m><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>339</LINE></delay_20m>
+  <main><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>119</LINE></main>
+  <keyboard><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>125</LINE></keyboard>
+  <row0><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>134</LINE></row0>
+  <row1><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>137</LINE></row1>
+  <row2><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>140</LINE></row2>
+  <cols><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>143</LINE></cols>
+  <col0><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>166</LINE></col0>
+  <col1><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>170</LINE></col1>
+  <col2><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>174</LINE></col2>
+  <switchOffset><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>178</LINE></switchOffset>
+  <sumOffset><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>193</LINE></sumOffset>
+  <resetOffset><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>187</LINE></resetOffset>
+  <restoreIO><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>313</LINE></restoreIO>
+  <waitRebounds><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>328</LINE></waitRebounds>
+  <sendCharacter><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>199</LINE></sendCharacter>
+  <shift><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>226</LINE></shift>
+  <waitFill><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>243</LINE></waitFill>
+  <changeLine><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>247</LINE></changeLine>
+  <secondline><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>252</LINE></secondline>
+  <resetlcd><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>288</LINE></resetlcd>
+  <resetAllLCD><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>292</LINE></resetAllLCD>
+  <lazo2><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>340</LINE></lazo2>
+  <lazo1><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\matrixKeyboard\matrixKeyboard\main.asm</FILE><LINE>341</LINE></lazo1>
+ </LABELS>
+</ASSEMBLER_INFO>
