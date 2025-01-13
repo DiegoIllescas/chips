@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\lcd\lcd\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\lcd\lcd\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\lcd\lcd\Debug\lcd.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lcd.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lcd.map</FILE>
+  <FILE>lcd.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <delay_100m><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\lcd\lcd\main.asm</FILE><LINE>471</LINE></delay_100m>
+  <delay_20m><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\lcd\lcd\main.asm</FILE><LINE>456</LINE></delay_20m>
+  <aqui><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\lcd\lcd\main.asm</FILE><LINE>436</LINE></aqui>
+  <delay_200m><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\lcd\lcd\main.asm</FILE><LINE>452</LINE></delay_200m>
+  <lazo2><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\lcd\lcd\main.asm</FILE><LINE>457</LINE></lazo2>
+  <lazo1><FILE>C:\Users\diego\Documents\7mo Semestre\Sistemas en Chip\lcd\lcd\main.asm</FILE><LINE>458</LINE></lazo1>
+ </LABELS>
+</ASSEMBLER_INFO>
